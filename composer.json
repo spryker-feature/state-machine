@@ -1,0 +1,11 @@
+{
+  "name": "spryker-feature/state-machine",
+  "description": "State Machine [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/state-machine": "^2.2.1"
+  }
+}
