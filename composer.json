@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker/state-machine": "^2.3.0"
+    "spryker/state-machine": "^2.5.0"
   },
   "extra": {
     "branch-alias": {
