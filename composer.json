@@ -7,11 +7,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/state-machine": "^2.25.0"
+        "spryker/state-machine": "^2.26.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     }
 }
